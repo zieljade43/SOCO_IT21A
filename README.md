@@ -1,4 +1,4 @@
-IT21 Activity 3 – Polymorphism and Abstraction
+Polymorphism and Abstraction
 
  1. ACTIVITY1_soco.java
 
